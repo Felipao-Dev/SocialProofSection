@@ -32,11 +32,9 @@ Your users should be able to:
 Screenshot of the desktop page 1440px x 800px 
 ![Screenshot of the desktop page ](./screenshots/Screenshot_desktop.png)
 
-
-
 ### Links
 
-- Live Site URL: [Live Site Here](social-proof-section-felipaodev.netlify.app)
+- Live Site URL: [Live Site Here](https://social-proof-section-felipaodev.netlify.app/)
 
 ## My process
 
