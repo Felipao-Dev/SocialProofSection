@@ -28,10 +28,11 @@ Your users should be able to:
 - View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
-Screenshot of the desktop page 1440px x 800px 
+
+- Screenshot of the desktop page 1440px x 800px 
 ![Screenshot of the desktop page ](./screenshots/Screenshot_desktop.png)
 
-Screenshot of the mobile page 375px x 800px
+- Screenshot of the mobile page 375px x 800px
 ![Screenshot of the mobile page ](./screenshots/Screenshot_phone.png)
 
 
