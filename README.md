@@ -36,8 +36,7 @@ Screenshot of the desktop page 1440px x 800px
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site Here](social-proof-section-felipaodev.netlify.app)
 
 ## My process
 
